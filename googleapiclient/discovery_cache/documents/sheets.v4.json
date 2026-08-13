@@ -94,7 +94,7 @@
 "type": "string"
 },
 "prettyPrint": {
-"default": "true",
+"default": "false",
 "description": "Returns response with indentations and line breaks.",
 "location": "query",
 "type": "boolean"
